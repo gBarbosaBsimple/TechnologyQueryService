@@ -1,0 +1,11 @@
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\bin\Debug\net9.0\InterfaceAdapters.deps.json
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\bin\Debug\net9.0\InterfaceAdapters.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\bin\Debug\net9.0\InterfaceAdapters.pdb
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.AssemblyInfoInputs.cache
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.AssemblyInfo.cs
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.csproj.CoreCompileInputs.cache
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\refint\InterfaceAdapters.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.pdb
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\InterfaceAdapters\obj\Debug\net9.0\ref\InterfaceAdapters.dll

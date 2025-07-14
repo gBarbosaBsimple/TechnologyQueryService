@@ -1,0 +1,11 @@
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Domain\obj\Debug\net9.0\ref\Domain.dll

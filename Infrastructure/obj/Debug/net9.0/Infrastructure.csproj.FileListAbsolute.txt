@@ -1,0 +1,11 @@
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\goncalobarbosa\Documents\ProjetosAcademia\TechnologyQueryService\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
