@@ -1,0 +1,84 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Coverage files
+*.coverage
+*.coveragexml
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build results of an ATL project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.cache
+*.pdb
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Azure Pipelines
+.azure-pipelines.yml
+
+# Publish output
+publish/
+
+# Entity Framework
+*.edmx.diagram
+*.dbmdl
+
+# JetBrains Rider
+.idea/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Node dependencies (if using npm/yarn)
+node_modules/
+
+# Others
+*.vsix
