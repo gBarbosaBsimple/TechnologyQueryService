@@ -4,14 +4,14 @@
     "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj": {
+    "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj",
-        "projectName": "InterfaceAdaptersTests",
-        "projectPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj",
+        "projectUniqueName": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\goncalobarbosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\obj\\",
+        "outputPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\goncalobarbosa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,9 +44,199 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\goncalobarbosa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\goncalobarbosa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj",
+        "projectName": "InterfaceAdaptersTests",
+        "projectPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\InterfaceAdaptersTests.csproj",
+        "packagesPath": "C:\\Users\\goncalobarbosa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\InterfaceAdaptersTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\goncalobarbosa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\goncalobarbosa\\Documents\\ProjetosAcademia\\TechnologyQueryService\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Testcontainers.PostgreSql": {
+              "target": "Package",
+              "version": "[4.6.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -54,11 +244,13 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.9.2, )"
+              "version": "[2.9.3, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.8.2, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
